@@ -43,7 +43,7 @@ Built reusable form controls and modular components in Angular for a health plat
 ---
 
 ## Contact & Links 🌐  
-- 💼 [LinkedIn](https://linkedin.com/in/juanpaulocl)  
+- 💼 [LinkedIn](https://linkedin.com/in/juanpaulorf)  
 - 🌍 [Portfolio (en desarrollo)](https://github.com/)  
 - 🧾 [CV PDF (próximamente)]  
 
